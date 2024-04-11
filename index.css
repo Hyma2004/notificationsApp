@@ -1,0 +1,52 @@
+* {
+  box-sizing: "box-border";
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+  width: 100;
+}
+.heading {
+  color: #0f172a;
+  font-family: "Roboto";
+  font-size: 32px;
+  padding: 25px;
+}
+.img {
+  height: 2px;
+  width: 3px;
+}
+.message1 {
+  background-color: #0b69ff;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-style: #ffffff;
+  margin: 20px;
+}
+.message2 {
+  background-color: #2dca73;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-style: #ffffff;
+  margin: 20px;
+}
+.message3 {
+  background-color: #ffb800;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-style: #ffffff;
+  margin: 20px;
+}
+.message4 {
+  background-color: #ff0b37;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-style: #ffffff;
+  margin: 20px;
+}
+/* Write your code here. */
